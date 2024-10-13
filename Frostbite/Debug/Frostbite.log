@@ -1,0 +1,14 @@
+﻿  Ability.cpp
+  Battle.cpp
+C:\Study\1_course_work_game_on_cpp\Game_Frostbite\Frostbite\Frostbite\Battle.cpp(58,7): warning C4858: Отбрасывание возвращаемого значения: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps..
+C:\Study\1_course_work_game_on_cpp\Game_Frostbite\Frostbite\Frostbite\Battle.cpp(74,7): warning C4858: Отбрасывание возвращаемого значения: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps..
+  Character.cpp
+  Dialog.cpp
+  Engine.cpp
+  main.cpp
+  Region.cpp
+  Trap.cpp
+  Trigger.cpp
+  World.cpp
+  Создание кода...
+  Frostbite.vcxproj -> C:\Study\1_course_work_game_on_cpp\Game_Frostbite\Frostbite\Debug\Frostbite.exe

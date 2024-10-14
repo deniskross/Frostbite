@@ -125,6 +125,33 @@ id_t WorldState::removeFromInventory(id_t itemId)
 	return ID_UNDEF;
 }
 
+bool WorldState::changeAll() {
+	int countItems = 0;
+	for (auto& invItem : inventory_) {
+		if (invItem.itemId != ID_UNDEF) {
+			countItems += 1;
+		}
+	}
+
+	if (countItems > 1) {
+		const id_t newItemDefIndex = 1;
+
+		for (auto& invItem : inventory_) {
+			if (invItem.itemId != ID_UNDEF) {
+				invItem.count = 0;
+				invItem.itemId = ID_UNDEF;
+			}
+		}
+
+		const ItemDef* itemDef = g_itemRegistry.getDef(newItemDefIndex);
+		id_t newItemId = generateItem(itemDef);
+		addToInventory(newItemId);
+
+		return true;
+	}
+	return false;
+}
+
 
 bool WorldState::equipItem(index_t inventorySlot)
 {
@@ -175,6 +202,7 @@ bool WorldState::unequipItem(enum EquipmentSlotName slot)
 	}
 	return true;
 }
+
 
 
 const Inventory& WorldState::getInventory() const

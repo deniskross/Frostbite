@@ -42,8 +42,19 @@ A gargantuan, slow-moving behemoth made entirely of ancient, hardened ice. Its h
 1
 atk
 
+2
+1
+Legendary sword
+The legendary sword is made of dragon glass and its characteristics are highly dependent on tempering. A weapon for real fans to try their luck!
 1
 1
+3
+atk 1 30 1 30
+str 1 20 0 0
+hp_max 0 0 0 200
+1
+atk dmg
+2
 Ice knife
 A jagged ice knife. Inflicts a bleeding wound.
 2
@@ -71,7 +82,7 @@ Room with dog
 You entered into a room and felt warm and safe. There's no one here except a couple of drawers and a cozy bed. The dog  is lying on the bed and affably waving his tail.
 1 3
 1
-loot 1
+loot 2
 3
 The shining Room
 You entered a shining room, and the feeling of security left you. You notice an ice stalker and an ice snake at the end of the room.
@@ -90,7 +101,7 @@ You entered the room and saw a terrible ghost, he clearly looks at you unfriendl
 1 6
 2
 battle 3
-loot 1
+loot 2
 6
 Room with dog
 You entered an already familiar room, it is exactly the same as the one from which you began your route, but this is far from the main thing that worries you now. The dog is still lying on the bed and affably waving his tail.

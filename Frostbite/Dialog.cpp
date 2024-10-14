@@ -194,9 +194,12 @@ void dialogInventory(WorldState& state)
 
 			const Item* item = itemTable.get(inventory[itemChoice].itemId);
 			printItem(item);
-			int choice = dialog("", "What to do?", { "Equip" }, { "Exit" });
+			int choice = dialog("", "What to do?", { "Equip", "Try your luck" }, { "Exit" });
 			if (choice == 0) {
 				state.equipItem(itemChoice);
+			}
+			else if (choice == 1) {
+				state.changeAll();
 			}
 			vtCloseWnd();
 		}

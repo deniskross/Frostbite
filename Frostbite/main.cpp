@@ -32,7 +32,7 @@ int main(int argc, char* argv[]) {
 	WorldState worldState;
 	worldState.initNewGame(startRoomId);
 
-	id_t itemId = worldState.generateItem(g_itemRegistry.getDef(1));
+	id_t itemId = worldState.generateItem(g_itemRegistry.getDef(2));
 	worldState.addToInventory(itemId);
 	worldState.equipItem(0);
 

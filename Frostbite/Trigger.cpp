@@ -34,8 +34,6 @@ bool  LootTrigger::execute(WorldState& state)
 	int choice = dialog(state, str.str(), "Take it?", { "Yes", "No" });
 	if (choice == 0) {
 		state.addToInventory(item->id);
-		//if 
-		//int choice = dialog(state, str.str(), "Take it?", { "Yes", "No" });
 	}
 	return true;
 }

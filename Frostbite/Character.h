@@ -96,6 +96,7 @@ struct InventoryItem {
     /// id_t of Item in the item table
     id_t itemId;
     int count;
+    std::string itemName;
 
     InventoryItem()
         : itemId(ID_UNDEF)  //заполняем нулями

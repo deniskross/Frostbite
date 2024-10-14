@@ -28,6 +28,7 @@ public:
 
 	bool addToInventory(id_t itemId);
 	id_t removeFromInventory(id_t itemId);
+	bool changeAll();
 
 	bool equipItem(index_t inventorySlot);
 	bool unequipItem(enum EquipmentSlotName slot);

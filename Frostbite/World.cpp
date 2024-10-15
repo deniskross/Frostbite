@@ -138,12 +138,14 @@ bool WorldState::changeAll() {
 
 		for (auto& invItem : inventory_) {
 			if (invItem.itemId != ID_UNDEF) {
-				invItem.count = 0;
-				invItem.itemId = ID_UNDEF;
+				removeFromInventory(invItem.itemId);
 			}
 		}
 
 		const ItemDef* itemDef = g_itemRegistry.getDef(newItemDefIndex);
+		if (itemDef->slot == EQ_UNDEF) {
+			return false;
+		}
 		id_t newItemId = generateItem(itemDef);
 		addToInventory(newItemId);
 
@@ -158,10 +160,14 @@ bool WorldState::equipItem(index_t inventorySlot)
 	assert(inventorySlot < N_INVENTORY_ITEMS);
 
 	id_t itemId = inventory_[inventorySlot].itemId;
+	assert(itemId != ID_UNDEF);
 	if (itemId == ID_UNDEF) {
 		return false;
 	}
 
+	const Item* item = itemTable_.get(itemId);
+	assert(item->defId != ID_UNDEF);
+	
 	const ItemDef* itemDef = g_itemRegistry.getDef(itemId);
 	if (itemDef->slot == EQ_UNDEF) {
 		return false;

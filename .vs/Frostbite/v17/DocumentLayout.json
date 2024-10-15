@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\world.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\world.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -27,28 +51,8 @@
       "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Trigger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Region.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Region.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|solutionrelative:Frostbite\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7311232B-416F-4FFD-8921-2F4CBC40B931}|Frostbite\\Frostbite.vcxproj|C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,76 +70,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorldFormat.txt",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\WorldFormat.txt",
-              "RelativeDocumentMoniker": "Frostbite\\WorldFormat.txt",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\WorldFormat.txt",
-              "RelativeToolTip": "Frostbite\\WorldFormat.txt",
-              "ViewState": "AQIAABIAAAAAAAAAAAAjwCYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-14T18:46:47.417Z",
+              "DocumentIndex": 3,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Battle.cpp",
+              "RelativeDocumentMoniker": "Frostbite\\Battle.cpp",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Battle.cpp",
+              "RelativeToolTip": "Frostbite\\Battle.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T00:19:01.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "world.txt",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\world.txt",
-              "RelativeDocumentMoniker": "Frostbite\\world.txt",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\world.txt",
-              "RelativeToolTip": "Frostbite\\world.txt",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-14T18:19:51.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Trap.cpp",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trap.cpp",
-              "RelativeDocumentMoniker": "Frostbite\\Trap.cpp",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trap.cpp",
-              "RelativeToolTip": "Frostbite\\Trap.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T15:41:33.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Ability.h",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Ability.h",
-              "RelativeDocumentMoniker": "Frostbite\\Ability.h",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Ability.h",
-              "RelativeToolTip": "Frostbite\\Ability.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.h",
+              "RelativeDocumentMoniker": "Frostbite\\Engine.h",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.h",
+              "RelativeToolTip": "Frostbite\\Engine.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAF0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T15:40:40.751Z",
+              "WhenOpened": "2024-10-13T16:17:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "World.cpp",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.cpp",
+              "RelativeDocumentMoniker": "Frostbite\\World.cpp",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.cpp",
+              "RelativeToolTip": "Frostbite\\World.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAI4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T16:14:51.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Character.h",
-              "RelativeDocumentMoniker": "Frostbite\\Character.h",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Character.h",
-              "RelativeToolTip": "Frostbite\\Character.h",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAFIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-13T21:50:40.453Z",
+              "Title": "Dialog.cpp",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Dialog.cpp",
+              "RelativeDocumentMoniker": "Frostbite\\Dialog.cpp",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Dialog.cpp",
+              "RelativeToolTip": "Frostbite\\Dialog.cpp",
+              "ViewState": "AQIAAFYAAAAAAAAAAAD4v8sAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T16:16:02.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "World.h",
               "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.h",
               "RelativeDocumentMoniker": "Frostbite\\World.h",
@@ -148,20 +139,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "World.cpp",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.cpp",
-              "RelativeDocumentMoniker": "Frostbite\\World.cpp",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\World.cpp",
-              "RelativeToolTip": "Frostbite\\World.cpp",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAAwIcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T16:14:51.818Z",
+              "DocumentIndex": 7,
+              "Title": "world.txt",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\world.txt",
+              "RelativeDocumentMoniker": "Frostbite\\world.txt",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\world.txt",
+              "RelativeToolTip": "Frostbite\\world.txt",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAE0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-14T18:19:51.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Character.h",
+              "RelativeDocumentMoniker": "Frostbite\\Character.h",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Character.h",
+              "RelativeToolTip": "Frostbite\\Character.h",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T21:50:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ability.h",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Ability.h",
+              "RelativeDocumentMoniker": "Frostbite\\Ability.h",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Ability.h",
+              "RelativeToolTip": "Frostbite\\Ability.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T15:40:40.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Trap.cpp",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trap.cpp",
+              "RelativeDocumentMoniker": "Frostbite\\Trap.cpp",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trap.cpp",
+              "RelativeToolTip": "Frostbite\\Trap.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T15:41:33.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorldFormat.txt",
+              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\WorldFormat.txt",
+              "RelativeDocumentMoniker": "Frostbite\\WorldFormat.txt",
+              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\WorldFormat.txt",
+              "RelativeToolTip": "Frostbite\\WorldFormat.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-14T18:46:47.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Trigger.cpp",
               "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trigger.cpp",
               "RelativeDocumentMoniker": "Frostbite\\Trigger.cpp",
@@ -169,38 +210,24 @@
               "RelativeToolTip": "Frostbite\\Trigger.cpp",
               "ViewState": "AQIAAB0AAAAAAAAAAAD4vzAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T16:16:12.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:16:12.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Engine.h",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.h",
-              "RelativeDocumentMoniker": "Frostbite\\Engine.h",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.h",
-              "RelativeToolTip": "Frostbite\\Engine.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-13T16:17:36.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Engine.cpp",
               "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.cpp",
               "RelativeDocumentMoniker": "Frostbite\\Engine.cpp",
               "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Engine.cpp",
               "RelativeToolTip": "Frostbite\\Engine.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-13T16:17:32.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Trigger.h",
               "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Trigger.h",
               "RelativeDocumentMoniker": "Frostbite\\Trigger.h",
@@ -208,25 +235,11 @@
               "RelativeToolTip": "Frostbite\\Trigger.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-13T18:15:17.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T18:15:17.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dialog.cpp",
-              "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Dialog.cpp",
-              "RelativeDocumentMoniker": "Frostbite\\Dialog.cpp",
-              "ToolTip": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Dialog.cpp",
-              "RelativeToolTip": "Frostbite\\Dialog.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAwAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T16:16:02.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\main.cpp",
               "RelativeDocumentMoniker": "Frostbite\\main.cpp",
@@ -234,12 +247,11 @@
               "RelativeToolTip": "Frostbite\\main.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T16:09:39.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:09:39.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Region.cpp",
               "DocumentMoniker": "C:\\Study\\1_course_work_game_on_cpp\\Game_Frostbite\\Frostbite\\Frostbite\\Region.cpp",
               "RelativeDocumentMoniker": "Frostbite\\Region.cpp",
@@ -247,8 +259,7 @@
               "RelativeToolTip": "Frostbite\\Region.cpp",
               "ViewState": "AQIAABMAAAAAAAAAAADwvyUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T15:41:36.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T15:41:36.334Z"
             }
           ]
         }

@@ -99,7 +99,7 @@ struct InventoryItem {
     std::string itemName;
 
     InventoryItem()
-        : itemId(ID_UNDEF)  //заполняем нулями
+        : itemId(ID_UNDEF)
         , count(0)
     {}
 

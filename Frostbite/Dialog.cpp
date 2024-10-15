@@ -115,7 +115,7 @@ void dialogCharacter(WorldState& state)
 		}
 
 
-		choice = dialog("", "What to do?", { "Unequip", "Inspect" }, { "Exit" });
+		choice = dialog("", "What to do?", { "Unequip", "Inspect equipment" }, { "Exit" });
 		if (choice == 0) {
 
 			vtOpenWnd();
@@ -193,8 +193,15 @@ void dialogInventory(WorldState& state)
 			vtOpenWnd();
 
 			const Item* item = itemTable.get(inventory[itemChoice].itemId);
+			const ItemDef* itemDef = g_itemRegistry.getDef(item->defId);
 			printItem(item);
-			int choice = dialog("", "What to do?", { "Equip", "Try your luck" }, { "Exit" });
+			std::vector<std::string> itemActions;
+			if (itemDef->slot != EQ_UNDEF) {
+				itemActions.push_back("Equip");
+				itemActions.push_back("Try your luck");
+			}
+			
+			index_t choice = dialog("", "What to do?", itemActions, { "Exit" });
 			if (choice == 0) {
 				state.equipItem(itemChoice);
 			}

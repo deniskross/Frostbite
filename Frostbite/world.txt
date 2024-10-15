@@ -72,7 +72,7 @@ A blade made of thick Frostbite snow. Not the strongest weapon, but due to its l
 1
 3
 atk 4 8 0 0
-str 10 10 0 0
+str 4 4 0 0
 hp_max 0 0 50 120
 1
 atk dmg

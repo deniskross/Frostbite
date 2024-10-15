@@ -142,11 +142,7 @@ bool WorldState::changeAll() {
 			}
 		}
 
-		const ItemDef* itemDef = g_itemRegistry.getDef(newItemDefIndex);
-		if (itemDef->slot == EQ_UNDEF) {
-			return false;
-		}
-		id_t newItemId = generateItem(itemDef);
+		id_t newItemId = generateItem(g_itemRegistry.getDef(1));
 		addToInventory(newItemId);
 
 		return true;
